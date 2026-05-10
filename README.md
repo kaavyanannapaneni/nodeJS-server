@@ -10,15 +10,16 @@ Check version:
 
 ```
 node -v
-
+```
 
 Run server:
 
 ```
 node app.js 
-
+```
 
 Server url:
 
 ```
 http://localhost:3000
+```
