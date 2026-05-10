@@ -12,13 +12,13 @@ Check version:
 node -v
 
 
-Run server
+Run server:
 
 ```
 node app.js 
 
 
-Server url 
+Server url:
 
 ```
 http://localhost:3000
